@@ -9,7 +9,7 @@ Simply modify file dev.tf and launch terraform.
 With this setup it will build your local Dockerimage, push it to AWS ECR (Images repository) and launch lambda.
 Each lambda will be plugged as and endpoint to the API Gateway.
 
-```json
+```
 api_gw_name = "simple-api-gw"
 
 functions = {
