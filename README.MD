@@ -1,7 +1,3 @@
-Based on the provided details and aiming to enhance the appeal and clarity of the README.md for the `aws-terraform-lambda-containers` project, here's a revised version:
-
----
-
 # AWS Terraform Lambda Containers
 
 Welcome to the AWS Terraform Lambda Containers project! This innovative solution leverages the power of Terraform, AWS API Gateway, Lambda, and Docker to deploy a serverless API that's both scalable and efficient. Dive into the world of serverless architecture with ease and see your Docker containers come to life as Lambda functions.
